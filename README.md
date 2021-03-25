@@ -1,2 +1,2 @@
 # cpp-cmake-project-arch
-C++ (C++11, C++14, C++17, C++20) and CMake Project Spin-Up Git Architecture (Single-Exe, Single-Lib, Single-Exe-Multi-Lib)
+C++ (C++11, C++14, C++17, C++20) and CMake Project Spin-Up Git Architecture
