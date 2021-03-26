@@ -8,7 +8,6 @@ int main(int argc, char* argv[]) {
         std::cout << "Correct use: " << argv[0]  << " <path> \n";
         return EXIT_FAILURE;
     }
-
     std::filesystem::path p{argv[1]};
     if (is_regular_file(p)) {
         std::cout << p << " exists with " << file_size(p) << " bytes\n";
