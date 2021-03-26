@@ -7,5 +7,5 @@ git init
 git add README.md
 git commit -m "initial git commit"
 git branch -M main
-git remote add origin git@github.com:isgo-golgo13/cpp-cmake-packaged-projects.git
+git remote add origin git@github.com:isgo-golgo13/cxx-cmake-packaged-projects.git
 git push -u origin main
