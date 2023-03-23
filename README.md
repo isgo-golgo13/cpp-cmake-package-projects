@@ -1,4 +1,4 @@
-# cpp-cmake-package-projects
+# cxx-cmake-designs
 C++ (C++11, C++14, C++17, C++20) and CMake Project Spin-Up Git Architecture
 
 Git CLI to register Git repo upstream to Github (Local Git to Git repo)
