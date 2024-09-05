@@ -1,2 +1,2 @@
 # C++ CMake Single-Exe Project Structure
-C++ (C++11, C++14, C++17, C++20, C++23) and CMake Project Git Architecture
+C++ (C++14, C++17, C++20, C++23) and CMake Project Git Architecture

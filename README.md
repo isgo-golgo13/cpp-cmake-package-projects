@@ -1,7 +1,7 @@
 # C++ CMake Template Kit
-C++ (C++11, C++14, C++17, C++20, C++23) and CMake Project Git Architecture
+C++ (C++14, C++17, C++20, C++23) and CMake Project Git Architecture
 
-The following project Git repository provides production-grade CMake and modern C++ (C++11+) runner applications
+The following project Git repository provides production-grade CMake and modern C++ (C++ > C++11+) runner applications
 that revolve around C++ smart pointers, C++ atomic smart pointers, C++ concepts (contrained policy templates), C++ ranges
 and async with C++ coroutines. Each `Template Kit` ToC entry will provide apps that include the preceding C++ constructs.
 
